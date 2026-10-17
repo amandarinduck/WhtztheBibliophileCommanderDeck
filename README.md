@@ -1,6 +1,6 @@
 <b> Whtz, the Bibliophile Full Commander Deck</b>
 
-<i> because blue definitely needed more cards... </i>
+<i> Because blue definitely needed more cards... </i>
 
 
 This repo contains a scraped csv of every blue/white card from the scryfall API, passed into a jupyter notebook for manipulation via pandas as a giant dataframe containing 14000+ cards in total
