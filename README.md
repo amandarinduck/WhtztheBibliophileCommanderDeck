@@ -1,4 +1,4 @@
-<b> Whtz, the Bibliophile Full Commander Deck</b>
+<b> Whtz, the Bibliophile Kitchen Sink Commander Deck</b>
 
 <i> Because blue definitely needed more cards... </i>
 
